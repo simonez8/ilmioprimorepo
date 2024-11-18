@@ -5,4 +5,5 @@ ciao io sono simone
 ## fermate della metro di milano
 ## metro gialla
 -COMASINA
--AFFORI
+-AFFORI FN
+-AFFORI CENTRO
